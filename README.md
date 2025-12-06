@@ -23,11 +23,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="ansible logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="60" alt="argocd logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitkraken/179287" height="60" alt="krakenjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="60" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="60" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="60" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="60" alt="terraform logo"  />
 </div>
 
 ###
@@ -49,11 +63,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergoo-lgtm/sergoo-lgtm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sergoo-lgtm/sergoo-lgtm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sergoo-lgtm/sergoo-lgtm/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/sergoo-lgtm/sergoo-lgtm/output/snake.svg" alt="Snake animation" />
 
 ###
 
