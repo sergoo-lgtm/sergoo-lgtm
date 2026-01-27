@@ -37,10 +37,9 @@
 ### 📊 Github Analytics
 
 <div align="center">
-  <a href="https://github.com/sergoo-lgtm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergoo-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide=issues,contribs" alt="sergoo-lgtm's Github Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Top Languages" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergoo-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide=issues,contribs" alt="Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
 </div>
 
 <br/>
@@ -48,7 +47,7 @@
 ### 📈 Coding Activity Timeline
 
 <div align="center">
-  <img src="https://github-isometric-contribution-graph.vercel.app/api?username=sergoo-lgtm&theme=tokyonight&base=0D1117" alt="sergoo-lgtm's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergoo-lgtm&bg_color=0D1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
