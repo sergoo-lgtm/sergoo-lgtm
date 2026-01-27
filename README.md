@@ -39,13 +39,12 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousef-serag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide=issues,contribs" />
-    
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-serag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yousef-serag&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=yousef-serag&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
