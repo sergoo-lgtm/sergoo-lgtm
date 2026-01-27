@@ -1,69 +1,61 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yousef%20Serag&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=From%20Physical%20Therapy%20to%20Cloud%20Architecture%20👨‍⚕️➡️💻&descAlignY=60&descSize=20" alt="header" />
 </div>
 
-###
-
-<h1 align="center">Hey 👋i'm yousef serag</h1>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="60" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gitkraken/179287" height="60" alt="krakenjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="60" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="60" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="60" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="60" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="60" alt="terraform logo"  />
-</div>
+  <h2>🚀 Backend Developer & DevOps Enthusiast</h2>
+  <p>
+    <b>" I used to treat patients, now I treat Servers & Deployments. "</b>
+  </p>
+  <p>
+    Converting caffeine ☕ into clean code and scalable infrastructure. <br>
+    Specialized in <b>.NET Ecosystem</b>, <b>Cloud Native</b>, and <b>DevOps Automation</b>.
+  </p>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yousef-serag-b2b975243/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="49" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/yousef-serag-b2b975243/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Send_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
+<hr/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+### 🛠️ The Arsenal (Tech Stack)
+
+<div align="center">
+
+| **Backend & Core** | **Cloud & DevOps** | **Tools & OS** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cs,dotnet,py,mysql" width="50" /><br>C#, .NET, Python, SQL | <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,argocd,prometheus,grafana" width="50" /><br>AWS, Azure, K8s, IaC | <img src="https://skillicons.dev/icons?i=linux,bash,git,nginx,postman,redis" width="50" /><br>Linux, Bash, Nginx |
+
 </div>
 
-###
+<br/>
+
+### 📊 Github Analytics
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yousef-serag&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef-serag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-serag&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+*(Because every developer needs a pet snake eating their commits)*
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&color=gradient" />
+</div>
