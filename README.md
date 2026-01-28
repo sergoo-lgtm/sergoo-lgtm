@@ -44,11 +44,12 @@
 
 <br/>
 
-### 📈 Coding Activity Timeline
+### 🧩 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sergoo-lgtm&bg_color=0D1117&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github.com/sergoo-lgtm/sergoo-lgtm/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&color=gradient" />
