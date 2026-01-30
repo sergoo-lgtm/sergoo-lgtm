@@ -37,13 +37,12 @@
 ### 📊 Github Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
-  
-  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergoo-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="General Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
 </div>
 
+<br/>
 
 ### 🧩 Contribution Snake Animation
 
