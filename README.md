@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/yousef-serag-b2b975243/">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yousefserag32@yahoo.com">
     <img src="https://img.shields.io/badge/Send_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
