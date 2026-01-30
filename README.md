@@ -34,15 +34,6 @@
 
 <br/>
 
-### 📊 Github Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sergoo-lgtm&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak" />
-  
-  <br/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
-</div>
 
 ### 🧩 Contribution Snake Animation
 
