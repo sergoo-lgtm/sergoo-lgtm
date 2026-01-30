@@ -20,6 +20,14 @@
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend_Engineering-2ea44f?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Egypt-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-orange?style=for-the-badge" />
+</div>
+
 <hr/>
 
 ### 🛠️ The Arsenal (Tech Stack)
@@ -34,20 +42,18 @@
 
 <br/>
 
-### 📊 Github Analytics
+### 🧩 Contribution Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergoo-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="General Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
+  <img src="https://github.com/sergoo-lgtm/sergoo-lgtm/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <br/>
 
-### 🧩 Contribution Snake Animation
+### 📊 Languages Breakdown
 
 <div align="center">
-  <img src="https://github.com/sergoo-lgtm/sergoo-lgtm/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
 </div>
 
 <br/>
