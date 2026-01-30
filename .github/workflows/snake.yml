@@ -1,11 +1,9 @@
 name: Generate Snake
 
 on:
-  # بيشتغل كل يوم الساعة 12 بالليل
   schedule:
-    - cron: "0 0 * * *" 
-  # وبيشتغل كمان لما تضغط عليه مانيوال
-  workflow_dispatch:
+    - cron: "0 0 * * *" # بيشتغل كل يوم نص الليل
+  workflow_dispatch:      # بيسمحلك تشغله بايدك
 
 jobs:
   build:
@@ -17,10 +15,10 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          # اسم اليوزر بتاعك هنا
           github_user_name: sergoo-lgtm
           outputs: |
             dist/github-contribution-grid-snake.svg
+            # ده السطر اللي بيعمل الصورة الداكنة اللي هنستخدمها
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
