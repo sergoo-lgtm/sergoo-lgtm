@@ -37,7 +37,7 @@
 ### 📊 Github Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergoo-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&hide=stars" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergoo-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true&include_all_commits=true" alt="Stats" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
 </div>
@@ -47,8 +47,9 @@
 ### 🧩 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sergoo-lgtm/sergoo-lgtm/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/sergoo-lgtm/sergoo-lgtm/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
+
 <br/>
 
 <div align="center">
