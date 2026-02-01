@@ -35,11 +35,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=39FF14&background=0D1117&center=false&vCenter=false&multiline=true&width=750&height=230&lines=%3E+yousef%40devops%3A~%24+whoami;root+(formerly+physiotherapist);%3E+yousef%40devops%3A~%24+./check_status.sh;%5BSUCCESS%5D+Now+treating+servers%2C+not+patients.;%3E+yousef%40devops%3A~%24+cat+mission.txt;%22Automate+Everything%22+via+.NET+%26+Cloud+Native+stack.;%3E+yousef%40devops%3A~%24+ready_to_deploy_" alt="Linux Terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=17&duration=2000&pause=500&color=39FF14&background=0D1117&center=false&vCenter=false&multiline=true&width=750&height=170&lines=%3E+yousef%40devops%3A~%24+whoami;root+(formerly+physiotherapist);%3E+yousef%40devops%3A~%24+./check_status.sh;%5BSUCCESS%5D+Now+treating+servers%2C+not+patients.;%3E+yousef%40devops%3A~%24+cat+mission.txt;%22Automate+Everything%22+via+.NET+%26+Cloud+Native+stack.;%3E+yousef%40devops%3A~%24+ready_to_deploy_" alt="Linux Terminal" />
   </a>
 </div>
-
-<br/>
 
 ### 🏆 Expertise Status (The Trophy Case)
 
