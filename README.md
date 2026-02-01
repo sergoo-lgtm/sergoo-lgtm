@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=150&lines=%3E+Initializing+User+Profile...;%3E+Loading+Module%3A+Yousef_Serag;%7B;+++%22Background%22%3A+%22Healthcare+Pivot%22%2C;+++%22Mission%22%3A+%22Automate+Everything%22%2C;+++%22Stack%22%3A+%5B%22.NET%22%2C+%22K8s%22%2C+%22Azure%22%5D;%7D;%3E+System+Ready._" alt="Terminal" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=500&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=160&lines=%3E+yousef%40devops%3A~%24+whoami;root+(formerly+physiotherapist);%3E+yousef%40devops%3A~%24+./check_status.sh;%5BSUCCESS%5D+Now+treating+servers%2C+not+patients.;%3E+yousef%40devops%3A~%24+cat+mission.txt;%22Automate+Everything%22+via+.NET+%26+Cloud+Native+stack.;%3E+yousef%40devops%3A~%24+ready_to_deploy_" alt="Linux Terminal" />
   </a>
 </div>
 
