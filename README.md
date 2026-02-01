@@ -53,13 +53,14 @@
 ### 📊 Analytics & Consistency
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
-  
-  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&color=gradient" />
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" alt="Top Languages" />
+      </td>
+      <td align="center" style="border: none;">
+        <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
