@@ -50,10 +50,12 @@
 
 <br/>
 
-### 📊 Languages Breakdown
+### 📊 Analytics & consistency
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
+  
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <br/>
