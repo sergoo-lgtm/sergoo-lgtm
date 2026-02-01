@@ -53,14 +53,10 @@
 ### 📊 Analytics & Consistency
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" alt="Top Languages" />
-      </td>
-      <td align="center" style="border: none;">
-        <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="160em" src="https://streak-stats.demolab.com/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
 </div>
