@@ -50,9 +50,8 @@
 
 <br/>
 
-### 📊 Analytics & Consistency
+### 📊 Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" height="165" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="streak graph" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergoo-lgtm&theme=tokyonight_dark" />
+</div>
