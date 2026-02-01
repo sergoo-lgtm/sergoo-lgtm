@@ -50,8 +50,14 @@
 
 <br/>
 
-### 📊 Analytics
+### 📊 Languages Breakdown
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergoo-lgtm&theme=tokyonight_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=html,css,jupyter%20notebook" alt="Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&color=gradient" />
 </div>
