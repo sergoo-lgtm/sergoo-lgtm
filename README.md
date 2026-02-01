@@ -28,7 +28,33 @@
   <img src="https://img.shields.io/badge/Status-Open_to_Work-orange?style=for-the-badge" />
 </div>
 
-<hr/>
+<div align="center">
+  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+</div>
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&height=150&lines=%3E+Initializing+User+Profile...;%3E+Loading+Module%3A+Yousef_Serag;%7B;+++%22Background%22%3A+%22Healthcare+Pivot%22%2C;+++%22Mission%22%3A+%22Automate+Everything%22%2C;+++%22Stack%22%3A+%5B%22.NET%22%2C+%22K8s%22%2C+%22Azure%22%5D;%7D;%3E+System+Ready._" alt="Terminal" />
+  </a>
+</div>
+
+<br/>
+
+### 🏆 Expertise Status (The Trophy Case)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/DATABASE-SQL_Expert-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/BACKEND-.NET_Master-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/INFRA-Cloud_Architect-0089D6?style=for-the-badge&logo=azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVOPS-Automation_Pro-239120?style=for-the-badge&logo=terraform&logoColor=white" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+</div>
 
 ### 🛠️ The Arsenal (Tech Stack)
 
@@ -42,6 +68,10 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+</div>
+
 ### 🧩 Contribution Activity
 
 <div align="center">
@@ -49,6 +79,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+</div>
 
 ### 📊 Languages Breakdown
 
