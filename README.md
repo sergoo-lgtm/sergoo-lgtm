@@ -52,11 +52,7 @@
 
 ### 📊 Analytics & Consistency
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="160em" src="https://streak-stats.demolab.com/?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergoo-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css" height="165" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=sergoo-lgtm&theme=tokyonight&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" height="165" alt="streak graph" />
+</p>
