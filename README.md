@@ -29,7 +29,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+  <br>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
+  <br>
 </div>
 <br/>
 
@@ -51,7 +53,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 </div>
 
 ### 🛠️ The Arsenal (Tech Stack)
@@ -67,7 +69,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 </div>
 
 ### 🧩 Contribution Activity
@@ -79,7 +81,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgur.com/TpbXHkM.gif" width="100%" height="5px" alt="divider" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 </div>
 
 ### 📊 Languages Breakdown
